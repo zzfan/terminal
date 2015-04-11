@@ -1,0 +1,8 @@
+table {
+  color: white;
+}
+
+.ls-files {
+  -webkit-column-width: 100px;
+  column-width: 100px;
+}
